@@ -1,8 +1,19 @@
 
-@media only screen and (min-width: 320px) and (max-width:575px  {  
+@media only screen and (min-width: 320px) and (max-width:575px)  {  
     .navigation-wrap{
         text-align:center;
         background-color:var(--white-color);
+    }
+    h1{
+        font-size:2.5rem;
+    }
+    h2{
+        font-size:2rem;
+        line-height:2.0625rem;
+    }
+    .story-section{
+        height:auto;
+        padding:3rem 0;
     }
 }
 
@@ -21,6 +32,10 @@
     .navigation-wrap{
         text-align:center;
         background-color:var(--white-color);
+    }
+    .story-section{
+        height:auto;
+        padding:3rem 0;
     }
  }
 
