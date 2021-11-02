@@ -1,5 +1,21 @@
 
 @media only screen and (min-width: 320px) and (max-width:575px)  {  
+    .top-banner {
+        padding: 10.875rem 0 9.375rem;
+    }
+    .testmonial-section .carousel-item .carousel-caption p {
+        font-size: 0.8rem;
+        line-height: 1.0625rem;
+        padding: 0 11% 0.625rem;
+    }
+    .main-btn {
+        display: inline-block;
+        padding: 0.625rem 0.875rem;
+    }
+    .white-btn {
+        display: inline-block;
+        padding: 0.625rem 0.875rem;
+    }
     .navigation-wrap{
         text-align:center;
         background-color:var(--white-color);
@@ -8,13 +24,20 @@
         font-size:2.5rem;
     }
     h2{
-        font-size:2rem;
+        font-size:1.450rem;
         line-height:2.0625rem;
     }
     .story-section{
         height:auto;
         padding:3rem 0;
     }
+    .text-content {
+        width: 100%;
+        margin: auto;
+    }
+    .newsletter .form-control {
+        height: 3.225rem;
+        margin-bottom: 25px;
 }
 
 
