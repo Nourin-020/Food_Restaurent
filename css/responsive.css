@@ -39,6 +39,7 @@
         height: 3.225rem;
         margin-bottom: 25px;
 }
+}
 
 
 @media only screen and (min-width: 576px) and (max-width:767px ) {
@@ -60,7 +61,14 @@
         height:auto;
         padding:3rem 0;
     }
+    .testmonial-section .carousel-item {
+        margin-top: 3rem;
+        padding: 14rem 3.125rem;
  }
+ .newsletter .form-control {
+    height: 3.225rem;
+    margin-bottom: 25px;
+}
 
 
  @media only screen and (min-width: 768px) and (max-width:991px ) {
@@ -81,10 +89,8 @@
     .top-banner{
         padding:9.375rem 0 9.375rem;
     }
+    .testmonial-section .carousel-item {
+        margin-top: 3rem;
+        padding: 12rem 3.125rem;
  }
-
-
- @media only screen and (min-width: 992px) and (max-width:1199px ) { }
-
-
- @media only screen and (min-width: 1200px) and (max-width:1399px ) {  }
+}
